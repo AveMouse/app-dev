@@ -5,7 +5,7 @@ My first repository
 ### Fantasy and Action
 
 **Rhaenyra Targaryen**
-*Rhaenyra Targaryen is the Protagonist of the Series*
+* is the Protagonist of the Series*
 
 > House Targaryen is known for its dragons.
 
